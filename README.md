@@ -130,8 +130,8 @@ http://localhost:5173
 ## 👥 Role Pengguna
 
 ### Admin
-- Username: budi
-- Password: 12345678
+- Username: ***
+- Password: ***
 - Akses penuh ke semua fitur manajemen
 
 ### Pemilik Kos
