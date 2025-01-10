@@ -73,7 +73,7 @@ http://localhost:5173
 ### 2. Autentikasi
 - Register sebagai pencari kos atau pemilik kos
 - Login dengan email/username
-- Login khusus admin (username: budi atau email: budi@admin.com)
+- Login khusus admin
 - Logout
 
 ### 3. Dashboard Pencari Kos
