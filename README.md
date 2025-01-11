@@ -14,7 +14,6 @@ Roomie adalah platform pencarian kos yang fokus di wilayah Padang, memudahkan pe
 1. Clone repository
 ```bash
 git clone [url-repository]
-cd mamikos-clone
 ```
 
 2. Install dependencies untuk frontend
@@ -41,7 +40,7 @@ npm install
   DB_HOST=localhost
   DB_USER=root
   DB_PASSWORD=
-  DB_NAME=mamikos_db
+  DB_NAME=nama_db
   JWT_SECRET=your-secret-key
   ```
 
